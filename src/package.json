@@ -1,0 +1,20 @@
+{
+  "name": "dusakabin-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.164.0",
+    "@react-three/fiber": "^8.15.11",
+    "@react-three/drei": "^9.97.0",
+    "framer-motion": "^10.18.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}
